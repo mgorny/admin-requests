@@ -11,7 +11,7 @@ Cheers and thank you for contributing to conda-forge!
 
 ## Checklist:
 
-* [ ] I want to copy an artifact following [CFEP-3](https://github.com/conda-forge/cfep/blob/main/cfep-03.md):
+* [x] I want to copy an artifact following [CFEP-3](https://github.com/conda-forge/cfep/blob/main/cfep-03.md):
   * [ ] Pinged the relevant feedstock team(s)
   * [ ] Added a reference to the original PR
   * [ ] Posted a link to the conda artifacts

@@ -11,7 +11,7 @@ Cheers and thank you for contributing to conda-forge!
 
 ## Checklist:
 
-* [ ] I want to request (or revoke) access to an opt-in CI resource:
+* [x] I want to request (or revoke) access to an opt-in CI resource:
   * [ ] Pinged the relevant feedstock team(s)
   * [ ] Added a small description explaining why access is needed
 

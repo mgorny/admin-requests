@@ -30,7 +30,7 @@ What will happen when a package is marked broken?
 
 ## Checklist:
 
-* [ ] I want to mark a package as broken (or not broken):
+* [x] I want to mark a package as broken (or not broken):
   * [ ] Added a description of the problem with the package in the PR description.
   * [ ] Pinged the team for the package for their input.
 

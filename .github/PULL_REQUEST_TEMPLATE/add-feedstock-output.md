@@ -11,7 +11,7 @@ Cheers and thank you for contributing to conda-forge!
 
 ## Checklist:
 
-* [ ] I want to add a package output to a feedstock:
+* [x] I want to add a package output to a feedstock:
   * [ ] Pinged the relevant feedstock team(s)
   * [ ] Added a small description of why the output is being added.
 
